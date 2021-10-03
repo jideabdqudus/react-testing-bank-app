@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 9950000,
+      "balance": 9918800,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -71,7 +71,7 @@
       "phoneNumber": "277-189-3402",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 75369,
+      "balance": 106569,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     }
@@ -9855,6 +9855,198 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
+    },
+    {
+      "id": "-rwidVCJe",
+      "uuid": "9d1336b8-13ec-4d55-8949-1ab56e9aa9a9",
+      "amount": 1200,
+      "description": "21",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:25:45.520Z",
+      "modifiedAt": "2021-10-03T11:25:45.520Z"
+    },
+    {
+      "id": "ymCguSGat",
+      "uuid": "6b849de2-0ff1-4fb7-9ff8-0c6cd9b1b2c5",
+      "amount": 2000,
+      "description": "6078e6d2-48c0-49fc-b4f5-350089e76bb8",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:25:48.993Z",
+      "modifiedAt": "2021-10-03T11:25:48.993Z"
+    },
+    {
+      "id": "Cgrt4X1Ad",
+      "uuid": "444190ca-da96-4586-bd6b-2c6a58e84560",
+      "amount": 2000,
+      "description": "2eb10bed-4ffd-41ce-8630-d7bf3cc55136",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:26:43.045Z",
+      "modifiedAt": "2021-10-03T11:26:43.045Z"
+    },
+    {
+      "id": "Kpbs2zNKl",
+      "uuid": "c40d09ca-050d-47f9-821a-76c37a47ad7e",
+      "amount": 2000,
+      "description": "310182ab-7be4-4d5f-b91a-1acaa3f56eba",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:27:28.342Z",
+      "modifiedAt": "2021-10-03T11:27:28.342Z"
+    },
+    {
+      "id": "zEwhA2ILv",
+      "uuid": "2350f922-3b3c-4ed2-a0ee-5da514b163f3",
+      "amount": 2000,
+      "description": "b189fe53-0077-44e0-887d-293565751505",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:28:32.017Z",
+      "modifiedAt": "2021-10-03T11:28:32.017Z"
+    },
+    {
+      "id": "_ICJ5jYA1",
+      "uuid": "5a584568-1e53-4e69-9817-ab484b7fb939",
+      "amount": 2000,
+      "description": "2e248df7-039d-41a3-b7f8-69d6b827894a",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:32:19.315Z",
+      "modifiedAt": "2021-10-03T11:32:19.315Z"
+    },
+    {
+      "id": "V47uosAc9",
+      "uuid": "6642cecf-b4c6-4d0a-9fbd-66e2b9f3a626",
+      "amount": 2000,
+      "description": "d9a8da8f-ffd1-4fd9-b9f7-e2b9aadbc355",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:33:41.831Z",
+      "modifiedAt": "2021-10-03T11:33:41.831Z"
+    },
+    {
+      "id": "amgJ-mD5G",
+      "uuid": "114ffe8d-9f5f-4018-b917-6f1eda1c39f4",
+      "amount": 2000,
+      "description": "64f550a5-5d48-47b2-b746-f0a03df53e85",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:34:36.913Z",
+      "modifiedAt": "2021-10-03T11:34:36.913Z"
+    },
+    {
+      "id": "Kx18VSVhs",
+      "uuid": "74613832-fe23-4f47-bcc5-22c0853d9b16",
+      "amount": 2000,
+      "description": "731903c0-4768-45b9-a4bb-84ac3854a9e4",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:35:59.145Z",
+      "modifiedAt": "2021-10-03T11:35:59.145Z"
+    },
+    {
+      "id": "Bi8MMDhUK",
+      "uuid": "e6968a26-f0d3-441e-a4b4-afe4ec93e788",
+      "amount": 2000,
+      "description": "97b7f9ad-fb32-4e6f-99fb-e07cfecf0e8c",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:37:36.606Z",
+      "modifiedAt": "2021-10-03T11:37:36.606Z"
+    },
+    {
+      "id": "LECJdVHeC",
+      "uuid": "720d6234-1940-4d20-b28c-967ff6127f3e",
+      "amount": 2000,
+      "description": "8f0bae91-a9bb-46cd-95ac-e3ad4722c462",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:38:41.580Z",
+      "modifiedAt": "2021-10-03T11:38:41.580Z"
+    },
+    {
+      "id": "puufdu5KV",
+      "uuid": "99f880a6-7f16-4aec-9546-0f721a73c903",
+      "amount": 2000,
+      "description": "a2e95c77-d838-44bc-abfa-eaecbd895edd",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:39:55.634Z",
+      "modifiedAt": "2021-10-03T11:39:55.634Z"
+    },
+    {
+      "id": "BaMgJzap4",
+      "uuid": "aade23df-3318-49e9-abe5-e89d6158ec38",
+      "amount": 2000,
+      "description": "53658637-4261-41cc-81ff-1dace3d6f814",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:40:57.184Z",
+      "modifiedAt": "2021-10-03T11:40:57.184Z"
+    },
+    {
+      "id": "bAvxFl8uc",
+      "uuid": "0563cd11-73ed-4ecf-b982-12d239d5616a",
+      "amount": 2000,
+      "description": "0c2d317c-94b5-49c7-9cdb-9a1704bbf487",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:44:49.704Z",
+      "modifiedAt": "2021-10-03T11:44:49.704Z"
+    },
+    {
+      "id": "hVOlR4bWV",
+      "uuid": "dd262565-4be3-42ec-9610-56c0e8be43ca",
+      "amount": 2000,
+      "description": "680973c3-e44b-4d01-8f0f-e6ff2603ecf7",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:46:22.953Z",
+      "modifiedAt": "2021-10-03T11:46:22.953Z"
+    },
+    {
+      "id": "MtvYLicNz",
+      "uuid": "c78b19e3-5f5e-4bd9-8d26-c137bb153a50",
+      "amount": 2000,
+      "description": "96246bc5-34f2-4d15-825a-25e51486f290",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-10-03T11:46:31.822Z",
+      "modifiedAt": "2021-10-03T11:46:31.822Z"
     }
   ],
   "likes": [
@@ -10038,7 +10230,7 @@
       "userId": "t45AiwidW",
       "likeId": "heOJ8kL74llw",
       "transactionId": "PPrW38YZtQD",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-10-15T13:21:49.772Z",
       "modifiedAt": "2020-05-21T20:08:05.787Z"
     },
@@ -10048,7 +10240,7 @@
       "userId": "t45AiwidW",
       "commentId": "K3HLpKcGKDiP",
       "transactionId": "lPUBZKlc4MLR",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-06-20T06:13:18.420Z",
       "modifiedAt": "2020-05-21T11:22:54.822Z"
     },
@@ -10068,7 +10260,7 @@
       "userId": "t45AiwidW",
       "transactionId": "xAsSYDsiEGSj",
       "status": "requested",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-09-20T22:27:10.721Z",
       "modifiedAt": "2020-05-21T14:55:58.008Z"
     },
@@ -10078,7 +10270,7 @@
       "userId": "t45AiwidW",
       "transactionId": "b0mCj0O2EKHN",
       "status": "requested",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-11-25T00:43:47.170Z",
       "modifiedAt": "2020-05-21T02:47:36.259Z"
     },
@@ -10088,7 +10280,7 @@
       "userId": "t45AiwidW",
       "transactionId": "76Vs0Fye9Mwt",
       "status": "received",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-11-14T17:00:33.637Z",
       "modifiedAt": "2020-05-21T12:51:07.700Z"
     },
@@ -10098,7 +10290,7 @@
       "userId": "t45AiwidW",
       "transactionId": "xAsSYDsiEGSj",
       "status": "received",
-      "isRead": false,
+      "isRead": true,
       "createdAt": "2019-11-12T12:51:00.239Z",
       "modifiedAt": "2020-05-21T18:26:16.366Z"
     },
@@ -10431,6 +10623,166 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
+    },
+    {
+      "id": "kKsNJQsZyC",
+      "uuid": "74a7b1ec-2346-40e7-805e-2a249fca910c",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "-rwidVCJe",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:25:45.581Z",
+      "modifiedAt": "2021-10-03T11:25:45.581Z"
+    },
+    {
+      "id": "oOcndcbPjw",
+      "uuid": "019ca69e-84b0-44d1-9f8f-101a15f6ac69",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "ymCguSGat",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:25:49.027Z",
+      "modifiedAt": "2021-10-03T11:25:49.027Z"
+    },
+    {
+      "id": "UaZhVtl5I",
+      "uuid": "6a09354a-b1c9-4b2d-8bf0-f18de75905fb",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Cgrt4X1Ad",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:26:43.088Z",
+      "modifiedAt": "2021-10-03T11:26:43.088Z"
+    },
+    {
+      "id": "6SdwWjG9QP",
+      "uuid": "2ad89349-5fe4-470c-964a-32dd37ddaafa",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Kpbs2zNKl",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:27:28.394Z",
+      "modifiedAt": "2021-10-03T11:27:28.394Z"
+    },
+    {
+      "id": "VSUhbXU5Yq",
+      "uuid": "22d3db09-8bce-4770-80bf-464d8a161add",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "zEwhA2ILv",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:28:32.047Z",
+      "modifiedAt": "2021-10-03T11:28:32.047Z"
+    },
+    {
+      "id": "JY0fLQ_4cI",
+      "uuid": "b7609340-b879-49f1-9f54-28bb186d032f",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "_ICJ5jYA1",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:32:19.346Z",
+      "modifiedAt": "2021-10-03T11:32:19.346Z"
+    },
+    {
+      "id": "Od6WAXfMT4",
+      "uuid": "31a80788-fe3d-4c1e-b169-95af7252d889",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "V47uosAc9",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:33:41.882Z",
+      "modifiedAt": "2021-10-03T11:33:41.882Z"
+    },
+    {
+      "id": "1NnQ6iFRY",
+      "uuid": "fce68a25-1d36-478c-9de4-7d13d24d167c",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "amgJ-mD5G",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:34:37.081Z",
+      "modifiedAt": "2021-10-03T11:34:37.081Z"
+    },
+    {
+      "id": "_ysyWh7tYK",
+      "uuid": "e5f982e5-d34f-46e0-8f66-b75bba1ac673",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Kx18VSVhs",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:35:59.178Z",
+      "modifiedAt": "2021-10-03T11:35:59.178Z"
+    },
+    {
+      "id": "-vGcEDXmbC",
+      "uuid": "1055ee05-2510-4958-afb7-d4fd195cb61f",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Bi8MMDhUK",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:37:36.631Z",
+      "modifiedAt": "2021-10-03T11:37:36.631Z"
+    },
+    {
+      "id": "f7xH1WBIAH",
+      "uuid": "37273619-586e-47d9-b6d2-c33ef3ba4a5c",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "LECJdVHeC",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:38:41.620Z",
+      "modifiedAt": "2021-10-03T11:38:41.620Z"
+    },
+    {
+      "id": "4of6crAPJy",
+      "uuid": "5cce09ed-4c53-48fd-bcbb-b94728cad746",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "puufdu5KV",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:39:55.676Z",
+      "modifiedAt": "2021-10-03T11:39:55.676Z"
+    },
+    {
+      "id": "Ncu4FFTcBP",
+      "uuid": "2d3c1e26-af04-4a9f-97ef-21c799a235cf",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "BaMgJzap4",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:40:57.240Z",
+      "modifiedAt": "2021-10-03T11:40:57.240Z"
+    },
+    {
+      "id": "trT9A9TfwL",
+      "uuid": "a23afeca-4b63-4307-95d9-92c5f1b77835",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "bAvxFl8uc",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:44:49.733Z",
+      "modifiedAt": "2021-10-03T11:44:49.733Z"
+    },
+    {
+      "id": "eF-azmonR9",
+      "uuid": "fc217ea1-add2-489a-898f-e1b4a3b7eca0",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "hVOlR4bWV",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:46:22.984Z",
+      "modifiedAt": "2021-10-03T11:46:22.984Z"
+    },
+    {
+      "id": "MESF7QSLcw",
+      "uuid": "9036ec32-4e05-4dc5-a2ec-72f683b62737",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "MtvYLicNz",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-10-03T11:46:31.872Z",
+      "modifiedAt": "2021-10-03T11:46:31.872Z"
     }
   ],
   "banktransfers": [
